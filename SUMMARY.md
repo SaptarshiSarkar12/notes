@@ -2,6 +2,10 @@
 
 * [HOME](README.md)
 * [Open-Source](open-source/README.md)
-  * [Issue Template](open-source/issue-template.md)
-  * [Pull Request Template](open-source/pull-request-template.md)
+  * [Issue Template](open-source/issue.md)
+  * [Pull Request Template](open-source/pr.md)
   * [Greetings Action](open-source/greetings-action.md)
+  * [Stale Action](open-source/stale-action.md)
+  * [Code Of Conduct](open-source/coc.md)
+  * [Contributing Guide](open-source/contributing-guide.md)
+  * [Security](open-source/security.md)
