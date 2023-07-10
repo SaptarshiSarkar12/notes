@@ -150,3 +150,77 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true	
 ```
+## Docs Request 📄
+
+```yml
+name: 📄 Documentation Change request
+description: Change regarding improving the docs to be more accessible
+title: "[DOCS] "
+labels: [documentation]
+body:
+  - type: textarea
+    attributes:
+      label: Category of documentation update
+      description: |
+        What category does this change fall under? For example, Typo error, New category addition, Rephrasing the sentences, fixing broken links, etc. 
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Describe the change you think might work
+      description: Please describe the change & need of the change in atmost detail possible.
+    validations:
+      required: true
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional information
+      description: Add any other context about the change in the documentation here.
+    validations:
+      required: false
+```
+
+## Feature Request
+
+```yml
+name: 💡 Feature Request for Application
+description: Suggest a new feature request
+title: '[FEATURE] '
+labels: ['enhancement']
+body:
+  - type: textarea
+    id: related-problem-for-feature-request
+    attributes:
+      label: Is your feature request related to a problem? Please describe.
+      description: A clear and concise description of what the problem is.
+      placeholder: I'm always frustrated when [...]
+    validations:
+      required: false
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Describe the solution you'd like.
+      description: A clear and concise description of what feature you want to include.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How would this feature be beneficial for the project
+      description: A clear and concise description about the importance of the feature
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Please add relevant screenshots for the feature.
+    validations:
+      required: false
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional information
+      description: Add any other context about the feature here.
+    validations:
+      required: false
+```
