@@ -1,18 +1,3 @@
----
-description: All my notes during my learning journey 🛣️!
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # HOME
 
 [View Demo](https://github.com/SaptarshiSarkar12/notes) . [Report Bug](https://github.com/SaptarshiSarkar12/notes/issues) . [Request Feature](https://github.com/SaptarshiSarkar12/notes/issues)
