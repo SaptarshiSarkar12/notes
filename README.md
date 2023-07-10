@@ -6,7 +6,7 @@
 
 ## Free to Access 💸
 
-This repo is maitained and hosted on **`https://saptarshi-sarkar.gitbook.io/notes/`** with help of GitBook.
+This repo is maitained and hosted on [**`https://saptarshi-sarkar.gitbook.io/notes/`**](https://saptarshi-sarkar.gitbook.io/notes/) with help of GitBook.
 
 ## Getting Started
 
