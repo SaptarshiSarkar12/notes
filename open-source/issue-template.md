@@ -1,6 +1,6 @@
 # Issue Template
 
-### Bug Report
+## Bug Report 
 
 ```yml
 name: 🐞 Bug Report
