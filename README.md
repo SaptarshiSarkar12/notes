@@ -4,7 +4,11 @@
 
 [![Discord](https://img.shields.io/discord/1034035416300519454)](https://discord.gg/DeT4jXPfkG) ![Contributors](https://img.shields.io/github/contributors/SaptarshiSarkar12/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/notes?style=social) ![Stargazers](https://img.shields.io/github/stars/SaptarshiSarkar12/notes?style=social) ![Issues](https://img.shields.io/github/issues/SaptarshiSarkar12/notes) ![License](https://img.shields.io/github/license/SaptarshiSarkar12/notes)
 
-### Getting Started
+## Free to Access 💸
+
+This repo is maitained and hosted on **`https://saptarshi-sarkar.gitbook.io/notes/`** with help of GitBook.
+
+## Getting Started
 
 Welcome to Saptarshi's Journey of learning new things in tech field!
 
@@ -22,13 +26,13 @@ _**For code example, please refer to the**_ [_**respective repositories**_](http
 
 See the [open issues](https://github.com/SaptarshiSarkar12/notes/issues) for a list of proposed features (and known issues).
 
-### Contributing
+## Contributing
 
 The best way to learn is by sharing knowledge and collaborating with others. So, any contributions from anyone who is interested in sharing their experiences, insights and resources.
 
 If you notice any error in any of the notes or have suggestions, please let us know.
 
-#### Creating A Pull Request
+## Creating A Pull Request
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingNotes`)
@@ -36,15 +40,15 @@ If you notice any error in any of the notes or have suggestions, please let us k
 4. Push to the Branch (`git push origin feature/AmazingNotes`)
 5. Open a Pull Request
 
-### License
+## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
 
-### Authors
+## Authors
 
 * **Saptarshi Sarkar** - _Open-Source Software Developer_ - [Saptarshi Sarkar](http://github.com/SaptarshiSarkar12/) - _Notes_
 
-### Acknowledgements
+## Acknowledgements
 
 * [ImgShields](https://shields.io/)
 * [ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
