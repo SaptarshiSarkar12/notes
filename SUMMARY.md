@@ -6,6 +6,7 @@
   * [Pull Request Template](open-source/pr.md)
   * [Greetings Action](open-source/greetings-action.md)
   * [Stale Action](open-source/stale-action.md)
+  * [Push to Pull Requests Action](open-source/push-to-pr-action.md)
   * [Code Of Conduct](open-source/coc.md)
   * [Contributing Guide](open-source/contributing-guide.md)
   * [Security](open-source/security.md)
