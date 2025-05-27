@@ -17,7 +17,7 @@ Data transmission happens in two ways
 
 There are submarine cables lied in the oceans and waterbodies, connecting various places around the world. You can check out the [submarine cable map website](https://www.submarinecablemap.com/).
 
-<figure><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1653998279577/pjYpnHM1r.jpeg" alt="submarine cable map website&#x27;s screenshot"><figcaption><p>submarine cable map website</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/submarine-cable-map.jpeg" alt="submarine cable map website&#x27;s screenshot"><figcaption><p>submarine cable map website</p></figcaption></figure>
 
 **Wired Connection -** Optical Fibre cables, coaxial cable\
 **Wireless connection -** Bluetooth, Wi-Fi, 3G, 4G, LTE, 5G
