@@ -1,3 +1,7 @@
+---
+description: A GitHub Actions workflow to push changes to pull request
+---
+
 # Push to Pull Requests Action
 
 ```yml

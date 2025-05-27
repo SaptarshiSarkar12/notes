@@ -1,3 +1,7 @@
+---
+description: A Contributing Guide for Open-Source project contributors
+---
+
 # Contributing Guide
 
 {% code overflow="wrap" %}

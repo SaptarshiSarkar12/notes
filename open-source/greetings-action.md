@@ -1,3 +1,7 @@
+---
+description: A GitHub Actions workflow to greet contributors
+---
+
 # Greetings Action
 
 ```yml

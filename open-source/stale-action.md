@@ -1,3 +1,7 @@
+---
+description: A scheduled GitHub Action workflow to mark stale issues and pull requests
+---
+
 # Stale Action
 
 ```yaml

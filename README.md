@@ -1,20 +1,14 @@
 # HOME
 
-[View Demo](https://saptarshi-sarkar.gitbook.io/notes/) . [Report Bug](https://github.com/SaptarshiSarkar12/notes/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+%3Ctitle%3E) . [Request Notes](https://github.com/SaptarshiSarkar12/notes/issues/new?assignees=&labels=new+notes+request&projects=&template=notes.yml&title=%5BResource%5D+%3Ctitle%3E)
+[View Demo](https://saptarshi-sarkar.gitbook.io/notes/) . [Report Bug](https://github.com/SaptarshiSarkar12/notes/issues/new?assignees=\&labels=bug\&projects=\&template=bug.yml\&title=%5BBug%5D%3A+%3Ctitle%3E)
 
-[![Discord](https://img.shields.io/discord/1034035416300519454)](https://discord.gg/DeT4jXPfkG) ![Contributors](https://img.shields.io/github/contributors/SaptarshiSarkar12/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/notes?style=social) ![Stargazers](https://img.shields.io/github/stars/SaptarshiSarkar12/notes?style=social) ![Issues](https://img.shields.io/github/issues/SaptarshiSarkar12/notes) ![License](https://img.shields.io/github/license/SaptarshiSarkar12/notes)
-
-## Free to Access 💸
-
-This repo is maitained and hosted on [**`https://saptarshi-sarkar.gitbook.io/notes/`**](https://saptarshi-sarkar.gitbook.io/notes/) with help of GitBook.
+[![Discord](https://img.shields.io/discord/1034035416300519454)](https://discord.gg/DeT4jXPfkG) ![Contributors](https://img.shields.io/github/contributors/SaptarshiSarkar12/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/SaptarshiSarkar12/notes?style=social) ![Stargazers](https://img.shields.io/github/stars/SaptarshiSarkar12/notes?style=social) ![Issues](https://img.shields.io/github/issues/SaptarshiSarkar12/notes)
 
 ## Getting Started
 
 Welcome to Saptarshi's Journey of learning new things in tech field!
 
-This GitHub repository is being made to store all the notes that Saptarshi makes throughout his learning journey. As he explores various new topics, this repository will remain a central place to track all the information and insights gained.
-
-From programming language to DevOps, from Open-Source to DevRel, this repository will contain notes on a variety of subjects. His journey might provide you a valuable resource.
+This GitHub repository is being made to store all the notes that Saptarshi makes throughout his learning journey. As he explores various new topics, this repository will remain a central place to track all the information and insights gained. His journey might provide you a valuable resource.
 
 So, Let's start our journey to explore the world of tech with him!
 
@@ -43,13 +37,3 @@ If you notice any error in any of the notes or have suggestions, please let us k
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
-
-## Authors
-
-* **Saptarshi Sarkar** - _Open-Source Software Developer_ - [Saptarshi Sarkar](http://github.com/SaptarshiSarkar12/) - _Notes_
-
-## Acknowledgements
-
-* [ImgShields](https://shields.io/)
-* [ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
-* [GitBook](https://gitbook.com/)

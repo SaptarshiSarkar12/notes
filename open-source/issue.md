@@ -1,3 +1,7 @@
+---
+description: Issue Templates commonly used in various Open-Source projects
+---
+
 # Issue Template
 
 ## Bug Report For Application
@@ -150,6 +154,7 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true	
 ```
+
 ## Docs Request 📄
 
 ```yml
