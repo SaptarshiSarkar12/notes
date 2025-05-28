@@ -2,19 +2,19 @@
 
 The transport layer is responsible for the **transportation of the data from the&#x20;**_**network**_**&#x20;to the&#x20;**_**application**_. It is located in your device. When a resource needs to be sent, it is given to the socket which gives to the transport layer multiplexer. **Multiplexer** allows us to send multiple things to multiple destinations (might be in the same device). This is called **multiplexing**. **De-multiplexer** allows us to receive multiple things from multiple destinations. This is called **demultiplexing**. De-multiplexer gives the data to the concerned socket. The Transport Layer attaches the socket port numbers to the data packets. It also takes care of congestion control using congestion control algorithms built in TCP.
 
-### _**Checksum**_
+### **Checksum**
 
 A particular string value is created from the data sent. When the data is received at the other end, its checksum is calculated. As the sender has attached the checksum calculated by him in the data packets, then, if the checksums match, it's okay, else, something has gone wrong.
 
-### _**Timers**_
+### **Timers**
 
 When a data packet is sent, the timer is started in the sender's device. When the confirmation is received, the timer ends. Suppose the second packet sent gets lost, the timer once started, expires after some time. That's how you can know which data packet has been lost. This timer is known as **Retransmission timer**.
 
-### _**Sequence Numbers**_
+### **Sequence Numbers**
 
 A value/number for the unique identification of data packets, is called sequence numbers. This is useful for identification of duplicate data packets at the receiver's end, if the same packet is retransmitted by the sender for not receiving the acknowledgement message for that packet.
 
-### _**Transport layer network protocols**_
+### **Transport layer network protocols**
 
 The protocols used in the transport layer are
 

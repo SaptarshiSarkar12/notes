@@ -22,7 +22,7 @@ There are submarine cables lied in the oceans and waterbodies, connecting variou
 **Wired Connection -** Optical Fibre cables, coaxial cable\
 **Wireless connection -** Bluetooth, Wi-Fi, 3G, 4G, LTE, 5G
 
-### _LAN, MAN and WAN_
+### LAN, MAN and WAN
 
 * **LAN** _(Local Area Network)_ - Small area coverage. Wi-Fi and Ethernet are its examples.
 * **MAN** _(Metropolitan area network)_ - Across a city.
@@ -30,7 +30,7 @@ There are submarine cables lied in the oceans and waterbodies, connecting variou
   1. **SONET** _(Synchronous Optical Network)_ - It carries the data using optical fibre cables hence, it can carry data for large distances.
   2. **Frame Relay** - It connects all the Local Area Network with the Wide Area Network.
 
-### _Modem, Router and DNS_
+### Modem, Router and DNS
 
 **Modem** - It is a device which converts the digital signals into analog signals and vice-versa. _Example -_ it will convert the digital image in your computer into electrical signals (Analog Signals) which is transmitted over wires (for instance).
 
