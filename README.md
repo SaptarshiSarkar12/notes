@@ -12,14 +12,6 @@ This GitHub repository is being made to store all the notes that Saptarshi makes
 
 So, Let's start our journey to explore the world of tech with him!
 
-### Usage
-
-_**For code example, please refer to the**_ [_**respective repositories**_](https://github.com/SaptarshiSarkar12?tab=repositories)_**.**_
-
-### Roadmap
-
-See the [open issues](https://github.com/SaptarshiSarkar12/notes/issues) for a list of proposed features (and known issues).
-
 ## Contributing
 
 The best way to learn is by sharing knowledge and collaborating with others. So, any contributions from anyone who is interested in sharing their experiences, insights and resources.
