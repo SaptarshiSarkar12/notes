@@ -27,3 +27,7 @@
       * [Network Layer](computer-networking/how-does-the-internet-work/tcp-ip-model/network-layer.md)
       * [Data Link Layer](computer-networking/how-does-the-internet-work/tcp-ip-model/data-link-layer.md)
       * [Physical Layer](computer-networking/how-does-the-internet-work/tcp-ip-model/physical-layer.md)
+* [Mermaid](mermaid/README.md)
+  * [Flowchart](mermaid/flowchart.md)
+  * [Pie Chart](mermaid/pie-chart.md)
+  * [Sankey](mermaid/sankey.md)

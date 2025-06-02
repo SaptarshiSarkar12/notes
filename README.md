@@ -1,3 +1,7 @@
+---
+icon: house
+---
+
 # HOME
 
 [View Demo](https://saptarshi-sarkar.gitbook.io/notes/) . [Report Bug](https://github.com/SaptarshiSarkar12/notes/issues/new?assignees=\&labels=bug\&projects=\&template=bug.yml\&title=%5BBug%5D%3A+%3Ctitle%3E)
