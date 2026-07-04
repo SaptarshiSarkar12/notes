@@ -63,7 +63,7 @@ The Tree Topology is a network type where many star topologies are connected usi
 * A tree topology relies heavily on its main bus cable.
 * The installation of a tree topology is difficult.
 
-![Tree Topology Diagram](../../.gitbook/assets/dc-lec03-topologies-34-638.jpg)
+<img src="../../.gitbook/assets/dc-lec03-topologies-34-638.jpg" alt="Tree Topology Diagram" width="479">
 
 ### **Mesh Topology**
 
@@ -79,4 +79,4 @@ The Mesh Topology is a network type where each and every computers are connected
 * Time-consuming to build and maintain.
 * High risk of redundant connection.
 
-![Mesh Topology Diagram](../../.gitbook/assets/mesh-topology-1-696x348.jpg)
+<img src="../../.gitbook/assets/mesh-topology-1-696x348.jpg" alt="Mesh Topology Diagram" width="522">

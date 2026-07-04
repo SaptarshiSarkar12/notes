@@ -16,7 +16,7 @@ A value/number for the unique identification of data packets, is called sequence
 
 ### **Transport layer network protocols**
 
-The protocols used in the transport layer are
+The protocols used in the transport layer are:
 
 #### **TCP (Transmission Control Protocol)**
 

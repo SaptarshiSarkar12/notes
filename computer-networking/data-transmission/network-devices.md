@@ -66,7 +66,7 @@ There are modems having **Asymmetric digital subscriber line (ADSL)** and some n
   * Synchronous Modem
   * Asynchronous Modem
 
-![Modem](../../.gitbook/assets/modem.png)
+<img src="../../.gitbook/assets/modem.png" alt="Modem" width="563">
 
 ### **Gateway**
 
@@ -93,7 +93,7 @@ device on the hub whether they are involved in the conversation or not. So, hubs
 * **Passive Hub** :- These are the hubs which **collect wiring from nodes** and **power supply from active hub**. These hubs **relay signals** onto the network **without cleaning and boosting them** and **can't be used to extend distance between nodes**.
 * **Intelligent Hubs** :- An intelligent hub can help in **troubleshooting by pinpointing** the actual location of the problem and help **identify the root cause and resolution**. It is **very adaptable to different technologies without any need to change its configuration**. The intelligent hub performs different functions such as **bridging, routing, switching and network management**.
 
-![Hub](../../.gitbook/assets/hub.png)
+<img src="../../.gitbook/assets/hub.png" alt="Hub" width="563">
 
 ### **Switches**
 
@@ -105,7 +105,7 @@ efficiently. A switches use to connect computers, printers, phones, cameras, lig
 * **Unmanaged switches** :- An unmanaged switch works right out of the box. It's not designed to be configured. so you don't have to worry about installing or setting it up correctly. Unmanaged switches have fewer features and less network capacity than managed switches. You'll usually find unmanaged switches in home networking equipments.
 *   **Managed switches** :- A managed network switch is configurable, offering greater security, flexibility and capacity than an unmanaged switch. You can monitor and adjust a managed switch locally or remotely, to give you greater network control.
 
-    ![Switch](../../.gitbook/assets/switch.png)
+    <img src="../../.gitbook/assets/switch.png" alt="Switch" width="375">
 
 ### **Routers**
 
@@ -124,7 +124,7 @@ Each router port is configured with a specific routing protocol that is associat
 * Inter-provider Border Router
 * Core Router
 
-![Router](../../.gitbook/assets/router.png)
+<img src="../../.gitbook/assets/router.png" alt="Router" width="563">
 
 ### **Brouter**
 

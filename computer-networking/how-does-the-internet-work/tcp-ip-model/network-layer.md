@@ -46,13 +46,11 @@ This are devices that comes in between router and system endpoint and interact w
 * **Firewall** - Two types are there - One connected to the global internet and the other connected to your own network. The packets coming to the network can be filtered and even modified (the headers and the destination can also be changed), flags can also be checked. There are stateless and stateful firewalls (uses cache so it's much faster).
 * **NAT (Network Address Translation)** - [Network address translation (NAT)](https://en.wikipedia.org/wiki/Network_address_translation) is a method of mapping an IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device. It is done to slow down the consumption of IP Addresses.
 
-<figure><img src="https://camo.githubusercontent.com/c347138dde8e6180a40b046a75c421b2a4c3d5706c94c06b9059c94138ff961c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63372f4e41545f436f6e636570742d656e2e7376672f3132383070782d4e41545f436f6e636570742d656e2e7376672e706e67" alt="" width="563"><figcaption></figcaption></figure>
-
-&#x20;
+<figure><picture><source srcset="../../../.gitbook/assets/1280 × 592.png" media="(prefers-color-scheme: dark)"><img src="../../../.gitbook/assets/image (10).png" alt=""></picture><figcaption></figcaption></figure>
 
 ### **Network Layer Protocols**
 
-The protocols used by network layer are
+The protocols used by network layer are:
 
 #### **IPv4 (Internet Protocol version 4)**
 

@@ -5,12 +5,12 @@ Protocols are set of rules used on the internet. The Protocols which are commonl
 ### **DNS (Domain Name System protocol)**
 
 The DNS protocol helps in **translating or mapping host names to IP addresses**. DNS works on a **client-server model** and uses a **distributed database** over a hierarchy of name servers. When we visit a website for the first time, the IP Address of the website is stored in the local cache. Suppose the IP Address is not found in the local cache, then it will be looked in the local DNS Server (ISP has all info about all websites you visit even if in incognito mode) which is the first point of contact. If the IP Address is not found there, it will be looked for in the root server and if not found even, it will be looked in the top-level domain. After getting the IP, the website server is connected.\
-**Classes of Domains**
+**Classes of Domains**<br>
 
-<figure><img src="https://camo.githubusercontent.com/5859ba78748416e268ef2752c4c1724bf66109e5b22af812bb3660d506107c73/68747470733a2f2f73656172636866616374732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f646f6d61696e2d6e616d652d70617274732e706e67" alt="" width="375"><figcaption><p>Parts of Domain Name</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Parts of Domain Name</p></figcaption></figure>
 
 * **Top-level domain** - Root DNS Servers. They have top-level domains like .io, .org, .com, etc. The authorities maintaining this root DNS server can be seen in this website - [Root-servers.org](https://root-servers.org/). The top-level domains are registered by [ICANN](https://www.icann.org/) (The Internet Corporation for Assigned Names and Numbers).
-* **Second level Domain** - The top-level domains themselves have domains like student.io, commclassroom.org, google.com, etc.
+* **Second level Domain** - The top-level domains themselves have domains like student.io, wemakedevs.org, google.com, etc.
 
 Hosts are identified based on their IP addresses, but memorizing an IP address is difficult due to its complexity. IPs are also dynamic, making it all the more necessary to map domain names to IP addresses. DNS helps resolve this issue by **converting the domain names of websites into numerical IP addresses**.
 

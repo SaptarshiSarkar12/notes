@@ -32,4 +32,4 @@ If you notice any error in any of the notes or have suggestions, please let us k
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/SaptarshiSarkar12/notes/blob/main/LICENSE.md) for more information.
