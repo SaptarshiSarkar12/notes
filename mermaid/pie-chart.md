@@ -2,7 +2,7 @@
 
 Pie charts are very simple and easily depicted using mermaid. Here's a simple example:
 
-```mermaid
+```mmd
 pie
   title A Pie Chart
   "Slice A" : 5

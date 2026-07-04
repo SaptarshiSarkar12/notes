@@ -2,7 +2,7 @@
 
 Sankey is used to depict flow from one data to another. Here's a simple example:
 
-```mermaid
+```mmd
 sankey-beta
   day,sleep,8
   day,work,10

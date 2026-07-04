@@ -13,7 +13,7 @@ Possible flowchart orientations:
 * RL: Right to Left
 * LR: Left to Right
 
-```mermaid
+```mmd
 flowchart LR
     A --> B
 ```
@@ -25,7 +25,7 @@ flowchart LR
 
 ### Node shapes
 
-```mermaid
+```mmd
 flowchart LR
     A([User]) --using--> B[[Browser]] --at port--> C((5000)) --in--> D(his laptop)
 ```
@@ -35,7 +35,7 @@ flowchart LR
     A([User]) --using--> B[[Browser]] --at port--> C((5000)) --in--> D(his laptop)
 ```
 
-```mermaid
+```mmd
 graph LR
   A(User Data) --stored in--> B[(database)] --hosted in--> C@{shape: st-doc, label: "on-premises servers"}
 ```
@@ -49,7 +49,7 @@ graph LR
 
 Subgraphs are especially useful when inter-connected graphs are shown in one frame.
 
-```mermaid
+```mmd
 flowchart LR
   subgraph PI[Public Internet]
     U(((User)))
@@ -111,7 +111,7 @@ flowchart LR
   e3@{animate: true}
 ```
 
-In the above example, different node shapes and subgraphs have been used along with node IDs (like `e1`, `e2`, `e3`, etc.). By using those IDs, we can animate them using `{animate: true}`.
+In the above example, different node shapes and subgraphs have been used along with node IDs (like `e1`, `e2`, `e3`, etc.). By using those IDs, we can animate them using <mark style="color:cyan;">`{animate: true}`</mark>.
 
 ### Want to Know More?
 
